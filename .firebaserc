@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "simpleapp-7e9f4",
+    "default": "simpleapp-7e9f4"
+  },
+  "targets": {}
+}
